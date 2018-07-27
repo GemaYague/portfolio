@@ -1,0 +1,96 @@
+ body{
+font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #8A5D94;
+  font-size: 16px;
+}
+
+nav {
+  padding-top: 32px;
+}
+
+.nav-list {
+  text-align: right;
+}
+
+.mr-auto {
+  margin-right: auto!important;
+}
+
+.header-logo {
+  text-align: left;
+  margin-top: -10px;
+}
+
+.container-wrapper {
+  width: 100vw;
+  height: 100vh;
+  background-color: #60E1E0;
+}
+
+.container-wrapper-blanco {
+  width: 100vw;
+  height: 100vh;
+  background-color: #F5FCFC;
+  /* font-weight: 600; */
+}
+
+.container-wrapper-morado {
+  width: 100vw;
+  height: 100vh;
+  background-color: #8A5D94;
+}
+
+.proyect-size{
+
+float: left;
+width: 30%;
+
+}
+
+.blanco{
+  color: #F5FCFC;
+}
+
+.azul{
+  color: #60E1E0;
+}
+
+.morado{
+  color: #8A5D94;
+}
+
+/* .titulo{
+  flex-flow: column;
+} */
+
+h1{
+  margin-left: 160px;
+  margin-top: 220px;
+  font-size: 80px;
+  font-weight: bolder;
+}
+
+h2{
+  margin-left: 160px;
+  margin-top: 40px;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+.h1-contacto{
+  margin-left: 160px;
+  margin-top: 40px;
+  font-size: 70px;
+  font-weight: bolder;
+}
+
+.h2-contacto{
+  margin-left: 160px;
+  margin-top: 100px;
+  font-size: 40px;
+  font-weight: 700;
+}
